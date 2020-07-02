@@ -21,7 +21,7 @@
 
 steamPage:
     # This is the short text appearing on the steam page
-    shortText: shapez.io is a game about building factories to automate the creation and combination of increasingly complex shapes within an infinite map.
+    shortText: shapez.io este un joc despre construirea fabricilor pentru a automatiza crearea și combinarea din ce în ce mai mare a forme complexe într-o harta infinita.
 
     # This is the long description for the steam page - It is contained here so you can help to translate it, and I will regulary update the store page.
     # NOTICE:
@@ -30,24 +30,24 @@ steamPage:
     longText: >-
         [img]{STEAM_APP_IMAGE}/extras/store_page_gif.gif[/img]
 
-        shapez.io is a game about building factories to automate the creation and combination of shapes. Deliver the requested, increasingly complex shapes to progress within the game and unlock upgrades to speed up your factory.
+        shapez.io este un joc despre construirea fabricilor pentru a automatiza crearea și combinarea de forme. Livrează cerutele, din ce în ce mai complexe forme pentru a progresa în joc și a debloca upgrade-uri pentru a îți mări viteza fabrici.
 
-        Since the demand raises you will have to scale up your factory to fit the needs - Don't forget about resources though, you will have to expand in the [b]infinite map[/b]!
+        Când cererea crește tu va trebui să îți extinzi fabrica pentru a se potrivi nevoilor - Nu uita despre resurse totuși, tu va trebuie să te extinzi în [b]harta infinită[/b]!
 
-        Since shapes can get boring soon you need to mix colors and paint your shapes with it - Combine red, green and blue color resources to produce different colors and paint shapes with it to satisfy the demand.
+        Când formele pot deveni plictisitoare curând tu va trebui sa amesteci culori și să îți pictezi formele cu ea - Amestecă culorile roșu, vrede și albastru pentru a produce diferite culori si a picta forme cu ele pentru a satisface nevoile.
 
-        This game features 18 levels (Which should keep you busy for hours already!) but I'm constantly adding new content - There is a lot planned!
+        Acest joc oferă 18 nivele (Care ar trebui să te țină ocupat pentru ore deja!) dar, eu adaug constant conținut nou - Sunt multe planificate!
 
 
-        [b]Standalone Advantages[/b]
+        [b]Avantajele Standalone-ului[/b]
 
         [list]
-            [*] Waypoints
-            [*] Unlimited Savegames
-            [*] Dark Mode
-            [*] More settings
-            [*] Allow me to further develop shapez.io ❤️
-            [*] More features in the future!
+            [*] Waypointuri
+            [*] Savegame-uri nelimitate
+            [*] Mod Întunecat
+            [*] Mai multe setări
+            [*] Îmi permiți să dezvlot mai departe shapez.io ❤️
+            [*] Mai multe funcții în viitor!
         [/list]
 
         [b]Planned features & Community suggestions[/b]
